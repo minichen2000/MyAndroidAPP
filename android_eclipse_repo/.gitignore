@@ -1,0 +1,8 @@
+Thumbs.db
+*/bin
+*/gen
+*.class
+lint.xml
+project.properties
+.classpath
+*/.settings
